@@ -1,0 +1,11 @@
+.MenuButton{
+    font-size: 16px;
+    margin: 22px;
+    cursor: pointer;
+    display: inline-flex;
+
+}
+
+.MenuButton:hover{
+    border-bottom: 4px solid white;
+}

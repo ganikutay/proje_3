@@ -1,0 +1,18 @@
+[
+    {
+        "buttonName": "Ana Sayfa",
+        "path": "#ana-sayfa"
+    },
+    {
+        "buttonName": "Hakkimizda",
+        "path": "#hakkimizda"
+    },
+    {
+        "buttonName": "Urunler",
+        "path": "#urunler"
+    },
+    {
+        "buttonName": "Iletisim",
+        "path": "#iletisim"
+    }
+]
